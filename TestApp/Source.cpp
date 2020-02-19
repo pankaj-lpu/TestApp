@@ -3,6 +3,7 @@ using namespace std;
 
 class Base
 {
+	int value;
 	int data;
 public:
 	virtual void fn()
